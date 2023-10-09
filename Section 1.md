@@ -8,4 +8,3 @@ Examples - Workstation, laptop, smart phone or any other terminal device
 A client can be any device that connect to any device 
 
 
-Josh 
