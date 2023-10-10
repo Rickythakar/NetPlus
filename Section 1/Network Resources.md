@@ -1,0 +1,41 @@
+#NetworkResources 
+
+Think about how data is being moved around the network.
+Broken down into two main models - 
+The Client/Server Model
+The Peer-to-Peer Model
+
+Client/Server Model - Uses a dedicated server to provide access to files, scanners, printers, and other resources.
+	Administration and backup are pretty easy here as there is 1 central machine (the server) that all of the resources are sitting on. 
+	We can configure the server and you have configured all of the accesses. 
+Client/Server Benefits - 
+	Gives us centralized administration  
+	Easier Management 
+	Better scalability 
+
+Client/Server Drawbacks 
+	Higher cost - requires dedicated hardware/software 
+	Requires specialized OS
+	Requires dedicated resources 
+
+Client server is still the leading model used by business networks
+
+
+Peer-to-Peer Model 
+	Peers share resources (files/printers) directly with others
+
+Administration and backup is difficult since the files are located on different machines and different places.
+This is also a drawback with Peer-to-Peer
+For example Napstar was a music sharing peer-to-peer where each person part of the network gave and received files.
+This type of network costs less - 
+
+The benefits of Peer-To-Peer 
+	Lower cost
+	No Dedicated Resources
+	No Specialized OS
+	Decentralized Management 
+	Inefficient for large networks 
+	Poor Scalability 
+
+
+Basically these two types of networks are direct oppposites of each other. In the exam it is important to understand this as well as the different benefits and drawbacks
